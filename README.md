@@ -3,6 +3,8 @@ dask-on-k8s-poc
 
 POC of running dask on k8s with microk8s
 
+Yelp restaurant review data set as JSON can be download here: ![Yelp data set](https://www.yelp.com/dataset/download)
+
 Project Organization
 ------------
 
