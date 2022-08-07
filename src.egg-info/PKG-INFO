@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.1.0
+Summary: POC of running dask on k8s with microk8s
+Author: Amy Hain
+License: MIT
+License-File: LICENSE
